@@ -1,2 +1,2 @@
 # DSP_final_project
-Grabcut implementation 
+Applications of the GrabCut Algorithm in Background Removal and Image Blending

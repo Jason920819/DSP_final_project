@@ -1,12 +1,12 @@
 # DSP_final_project
 Applications of the GrabCut Algorithm in Background Removal and Image Blending
-
+-------------------------------------------------------------------------------------------------
 **How to use the code?**
 1. Open up and run "implementation.py".
 2. After running "implemetation.py", you will get the segmented picture automatically stored in ./result
 3. Open up and run "New_background_function.py" to put the picture on new background you choose.
-
-**Meaning of each folder and files**
+-------------------------------------------------------------------------------------------------
+**Meaning of each folder and files**  
 Feathering_function.py  ==>	Edge Smoothing with Gaussian Filter  
 Feathering_function_version2.py ==>	Edge Smoothing with Gaussian Filter (better one)  
 Grabcut_handmade.py ==> handmade Grabcut function  

@@ -2,9 +2,10 @@
 Applications of the GrabCut Algorithm in Background Removal and Image Blending
 -------------------------------------------------------------------------------------------------
 **How to use the code?**
-1. Open up and run "implementation.py".
-2. After running "implemetation.py", you will get the segmented picture automatically stored in ./result
-3. Open up and run "New_background_function.py" to put the picture on new background you choose.
+1. Download and unzip all the files and folders
+2. Open up and run "implementation.py".
+3. After running "implemetation.py", you will get the segmented picture automatically stored in ./result
+4. Open up and run "New_background_function.py" to put the picture on new background you choose.
 -------------------------------------------------------------------------------------------------
 **Meaning of each folder and files**  
 

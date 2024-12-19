@@ -8,12 +8,12 @@ Applications of the GrabCut Algorithm in Background Removal and Image Blending
 -------------------------------------------------------------------------------------------------
 **Meaning of each folder and files**  
 
-Feathering_function.py &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; ==>	Edge Smoothing with Gaussian Filter  
+Feathering_function.py &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; ==>	Edge Smoothing with Gaussian Filter  
 Feathering_function_version2.py ==>	Edge Smoothing with Gaussian Filter (better one)  
 Grabcut_handmade.py  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;           ==> handmade Grabcut function  
-Implementation.py      &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;         ==> main function that performs grabcut, magic wand, and edge smoothing  
-Magic_wand_function.py    &ensp;&ensp;&ensp;&ensp;      ==> magic wand function that help improve the performance of grabcut result  
-New_background_function.py  &ensp;&ensp;&ensp;&ensp;    ==> second main function that performs putting segmented picture on new background  
+Implementation.py      &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  &ensp;&ensp;&ensp;       ==> main function that performs grabcut, magic wand, and edge smoothing  
+Magic_wand_function.py    &ensp;&ensp;&ensp;&ensp;   &ensp;&ensp;  ==> magic wand function that help improve the performance of grabcut result  
+New_background_function.py  &ensp;&ensp;   ==> second main function that performs putting segmented picture on new background  
 
 results&ensp;&ensp;&ensp;&ensp;     ==>  save all the results picture inside this folder  
 raw_picture ==> some example input picture to be used  

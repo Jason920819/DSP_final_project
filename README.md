@@ -8,7 +8,7 @@ Applications of the GrabCut Algorithm in Background Removal and Image Blending
 -------------------------------------------------------------------------------------------------
 **Meaning of each folder and files**  
 
-Feathering_function.py          ==>	Edge Smoothing with Gaussian Filter  
+Feathering_function.py &ensp;&ensp;&ensp;&ensp; ==>	Edge Smoothing with Gaussian Filter  
 Feathering_function_version2.py ==>	Edge Smoothing with Gaussian Filter (better one)  
 Grabcut_handmade.py             ==> handmade Grabcut function  
 Implementation.py               ==> main function that performs grabcut, magic wand, and edge smoothing  
